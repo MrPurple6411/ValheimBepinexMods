@@ -1,0 +1,9 @@
+{
+  "name": "NoStaminaSneak",
+  "description": "This is a Bepinex mod for Valheim that removes the Stamina cost for moving while sneaking.",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.600"
+  ]
+}
